@@ -10,7 +10,8 @@ import Contact from './components/Contact';
 
 function App() {
   return (
-    <div className="w-screen min-h-screen flex flex-col">
+    <div className="sm:visible md:invisible w-screen min-h-screen flex flex-col relative">
+      <div className="h-screen sm:invisible md:visible flex flex-row justify-center items-center absolute">Open Using Mobile Phone</div>
       <div>
         <Home/>
         <Events/>

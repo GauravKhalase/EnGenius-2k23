@@ -9,14 +9,9 @@ const Pass = () => {
         </div>
         <div className="text-[25px] font-extrabold pb-4 ">EXCITING EVENT</div>
         <div className="text-[12px] text-center leading-4 tracking-wider pb-4">
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Delectus,
-          eaque et quaerat, possimus distinctio nulla veritatis molestiae magni
-          est sit qui minus maiores. Consectetur, voluptate eveniet! Nam modi
-          mollitia voluptate sed, veritatis commodi ratione magnam blanditiis
-          provident temporibus id odit minus architecto, laudantium quia ab
-          repellat at adipisci nesciunt facilis.
+        Be a part of this electrifying event by securing your pass today! It's as easy as filling out the Google form, and you can collect your pass from the respective coordinator. Don't miss out on the fun, innovation, and celebration of Engineers' Day.
         </div>
-        <button className="text-white bg-gradient-to-r from-[#4327a3] to-[#dd117f] rounded-xl px-5 py-2">
+        <button className="text-white text-[12px] font-semibold tracking-wide bg-gradient-to-r from-[#4327a3] to-[#dd117f] rounded-xl px-6 py-3">
           BUY THE PASS NOW
         </button>
       </div>
