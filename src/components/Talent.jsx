@@ -1,20 +1,33 @@
 import React from 'react'
+import Cardone from './Cardone'
+import Cardtwo from './Cardtwo'
+import CardThree from './CardThree'
+import CardFour from './CatdFour'
+import CardFive from './CardFive'
+import CardSix from './CardSix'
 
 const Talent = () => {
   return (
     <div className='bg-[#f8f8f8]' id='talent'>
+      
       <div className="max-w-[80%] flex flex-col justify-center items-center mx-auto py-10">
         <div className="text-[15px] font-semibold ">WANT TO<span className="text-[25px] font-extrabold"> SHOWCASE </span>YOUR</div>
         <div className="text-[25px] font-extrabold pb-5">TALENT?</div>
-        <div className='flex flex-col gap-2 pb-6'>
-        <div>1.SOMETHING - <span className='text-[15px]'>Lorem ipsum dolor sit amet.</span></div>
-        <div>2.SOMETHING - <span className='text-[15px]'>Lorem ipsum dolor sit amet.</span></div>
-        <div>3.SOMETHING - <span className='text-[15px]'>Lorem ipsum dolor sit amet.</span></div>
-        <div>4.SOMETHING - <span className='text-[15px]'>Lorem ipsum dolor sit amet.</span></div>
+        <div className='flex flex-col justify-center items-center gap-5 text-center mb-6'>
+          <div className="text-[12px] leading-4 tracking-wider">Participate in the following competitions and get a chance to win <span className='font-extrabold'>Prize Money</span> and participation Certificate.</div>
+          <div className="text-[10px] leading-4 tracking-wider"><span className='font-extrabold'>Note :</span>
+           Click the “PARTICIPATE NOW” button to know all the details about the competitions.
+          </div>
+        </div>
+        <div className='flex flex-col gap-4'>
+        <Cardone/>
+        <Cardtwo/>
+        <CardThree/>
+        <CardFour/>
+        <CardFive/>
+        <CardSix/>
       </div>
-      <button className="text-white bg-gradient-to-r from-[#4327a3] to-[#dd117f] rounded-xl px-5 py-2">
-              BUY THE PASS NOW
-            </button>
+      
       </div>
       
     </div>
