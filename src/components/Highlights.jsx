@@ -18,7 +18,7 @@ const Highlights = () => {
             </div>
           </div>
           <div className="w-[100%] flex flex-row justify-center items-center border-[1px] border-[#4327a3] rounded-xl py-2">
-            Experts Talk
+            EXPERT'S TALK
           </div>
           <div className="w-[100%] flex flex-row justify-center items-center border-[1px] border-[#dd117f] rounded-xl py-2">
             STAND-UP COMEDY

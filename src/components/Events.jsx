@@ -4,38 +4,36 @@ const Events = () => {
   return (
     <div id="events">
       <div className="max-w-[80%] flex flex-col mx-auto py-10">
-        <div className="text-[25px] font-extrabold px-2 py-8 ">
+      <div className="text-[25px] font-extrabold px-2 py-8 ">
           EVENTS <span className="text-[15px] font-semibold ">ORGANISED</span>
         </div>
-        <div className="flex flex-col justify-center items-center gap-2">
-          <div className="flex flex-row justify-center items-center gap-4">
-            <div>10:00 - 11:00</div>
-            <div>Something something</div>
-          </div>
-          <div className="h-[2px] w-[100%] bg-black"></div>
-
-          <div className="flex flex-row justify-center items-center gap-4">
-            <div>11:00 - 12:00</div>
-            <div>Something something</div>
-          </div>
-          <div className="h-[2px] w-[100%] bg-black"></div>
-          <div className="flex flex-row justify-center items-center gap-4">
-            <div>01:00 - 13:00</div>
-            <div>Something something</div>
-          </div>
-          <div className="h-[2px] w-[100%] bg-black"></div>
-
-          <div className="flex flex-row justify-center items-center gap-4">
-            <div>13:00 - 15:00</div>
-            <div>Something something</div>
-          </div>
-          <div className="h-[2px] w-[100%] bg-black"></div>
-
-          <div className="flex flex-row justify-center items-center gap-4">
-            <div>15:00 - 17:00</div>
-            <div>Something something</div>
-          </div>
-        </div>
+        <table class="table-auto">
+          <tbody>
+            <tr className="border-b-2 border-black">
+              <td className="w-[110px] py-2">10:00 - 11:00</td>
+              <td className="pl-2 py-2">Inauguration + Saraswati Poojan.</td>
+            </tr>
+            <tr className="border-b-2 border-black">
+              <td className="w-[110px] py-2">11:00 - 12:00</td>
+              <td className="pl-2 py-2">Expert's Talk + Skit/Act + Project Competition.</td>
+            </tr>
+            <tr className="border-b-2 border-black">
+              <td className="w-[110px] py-2">12:00 - 01:00</td>
+              <td className="pl-2 py-2">Lunch/Snacks Break.</td>
+            </tr>
+            <tr className="border-b-2 border-black">
+              <td className="w-[110px] py-2">01:00 - 03:00</td>
+              <td className="pl-2 py-2">
+                Dancing Competition + Singing Competition + Photography
+                Competition + Digital Treasure Hunt.
+              </td>
+            </tr>
+            <tr>
+              <td className="w-[110px] py-2">01:00 - 03:00</td>
+              <td className="pl-2 py-2">Announcement of Winners of all Competitions.</td>
+            </tr>
+          </tbody>
+        </table>
       </div>
     </div>
   );

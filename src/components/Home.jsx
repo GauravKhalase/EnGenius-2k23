@@ -23,7 +23,7 @@ const Home = () => {
             <div className="h-[1px] w-[70%] bg-[#9e1a8e]"></div>
           </div>
           <div className="flex flex-col justify center items-center gap-[2px]">
-            <a href="#pass">BUY PASS</a>
+            <a href="#pass">GET PASS</a>
             <div className="h-[1px] w-[70%] bg-[#9e1a8e]"></div>
           </div>
           <div className="flex flex-col justify center items-center gap-[2px]">

@@ -5,9 +5,9 @@ import Dancing from "../assets/Dancing.jpg";
 const CardSix = () => {
   return (
     <div>
-        <div className="bg-[#323232] flex flex-row rounded-lg">
+        <div className="md:w-[350px] bg-[#323232] flex flex-row rounded-lg">
       
-      <div className="w-[70%] px-5 py-2 flex flex-col justify-between items-start text-white">
+      <div className="sm:w-[70%] md:w-[250px] px-5 py-2 flex flex-col justify-between items-start text-white">
         <div>
         <div className="text-[15px] font-semibold uppercase">Dancing Competition</div>
         <div className="text-[10px]">
@@ -20,7 +20,7 @@ const CardSix = () => {
         </button>
         </a>
       </div>
-      <div className="w-[30%] ">
+      <div className="sm:w-[30%] md:w-[100px]">
         <img className="rounded-lg" src={Dancing} alt="" />
       </div>
     </div>
