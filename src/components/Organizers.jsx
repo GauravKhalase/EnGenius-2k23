@@ -18,8 +18,10 @@ const Organizers = () => {
               src={SUAISA}
               alt=""
             />
-            <div className="text-[12px] font-bold">SUAISA</div>
-            <div className="text-[6px]">DEPARTMENT OF AIML</div>
+            <div className="flex flex-col justify-center items-center">
+              <div className="text-[12px] font-bold">SUAISA</div>
+              <div className="text-[6px]">DEPARTMENT OF AIML</div>
+            </div>
           </div>
           <div className="flex flex-col justify-center items-center gap-2">
             <img
@@ -27,8 +29,10 @@ const Organizers = () => {
               src={SUCFSA}
               alt=""
             />
-            <div className="text-[12px] font-bold">SUCFSA</div>
-            <div className="text-[6px]">DEPARTMENT OF CSF</div>
+            <div className="flex flex-col justify-center items-center">
+              <div className="text-[12px] font-bold">SUCFSA</div>
+              <div className="text-[6px]">DEPARTMENT OF CSF</div>
+            </div>
           </div>
           <div className="flex flex-col justify-center items-center gap-3">
             <img
@@ -36,8 +40,10 @@ const Organizers = () => {
               src={SUCSSA}
               alt=""
             />
-            <div className="text-[12px] font-bold">SUCSSA</div>
-            <div className="text-[6px]">DEPARTMENT OF CSE</div>
+            <div className="flex flex-col justify-center items-center">
+              <div className="text-[12px] font-bold">SUCSSA</div>
+              <div className="text-[6px]">DEPARTMENT OF CSE</div>
+            </div>
           </div>
           <div className="flex flex-col justify-center items-center gap-2">
             <img
@@ -45,8 +51,10 @@ const Organizers = () => {
               src={SUCTSA}
               alt=""
             />
-            <div className="text-[12px] font-bold">SUCTSA</div>
-            <div className="text-[6px]">DEPARTMENT OF CTIS</div>
+            <div className="flex flex-col justify-center items-center">
+              <div className="text-[12px] font-bold">SUCTSA</div>
+              <div className="text-[6px]">DEPARTMENT OF CTIS</div>
+            </div>
           </div>
         </div>
       </div>

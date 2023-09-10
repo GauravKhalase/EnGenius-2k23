@@ -34,7 +34,7 @@ const Home = () => {
       </nav>
       <div className="text-white flex justify-center ">
         <div className="max-w-[80%] flex flex-col justify-center items-center pt-10">
-          <div className="text-[40px] font-extrabold tracking-wide">
+          <div className="text-[38px] font-extrabold tracking-wide">
             EnGenius - 2k23
           </div>
           <div className=" max-w-[90%] text-[10px] flex flex-row justify-center items-center text-center font-bold leading-4 tracking-wider pb-4">
@@ -47,7 +47,7 @@ const Home = () => {
             See you there!
           </div>
           <button className="text-[12px] font-bold bg-gradient-to-r from-[#4327a3] to-[#dd117f] rounded-2xl px-8 py-3 mb-16">
-            KNOW MORE
+            <a href="#events">KNOW MORE</a>
           </button>
           <div className="flex flex-col justify-center items-center text-[15px] font-bold tracking-wider mb-4">
             <div>LOCATION : 'S' BUILDING SEMINAR HALL</div>

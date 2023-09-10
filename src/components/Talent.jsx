@@ -19,13 +19,13 @@ const Talent = () => {
            Click the “PARTICIPATE NOW” button to know all the details about the competitions.
           </div>
         </div>
-        <div className='flex flex-col gap-4'>
+        <div className='flex flex-col gap-5'>
         <Cardone/>
         <Cardtwo/>
         <CardThree/>
-        <CardFour/>
-        <CardFive/>
         <CardSix/>
+        <CardFive/>
+        
       </div>
       
       </div>

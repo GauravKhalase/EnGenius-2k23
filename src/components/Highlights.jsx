@@ -12,11 +12,10 @@ const Highlights = () => {
           <div className="flex flex-col justify-center items-center border-[1px] border-[#dd117f] rounded-2xl px-6 py-4 gap-3">
             <div>LIVE AUDIENCE VOTING</div>
             <div className="text-center text-[10px]">
-            We've incorporated live audience voting to let you decide the best performances in all our competitions. Your voice matters, and we want you to be a part of this thrilling experience.
+              We've incorporated live audience voting to let you decide the best
+              performances in all our competitions. Your voice matters, and we
+              want you to be a part of this thrilling experience.
             </div>
-            <button className="text-[12px] font-semibold tracking-wide bg-gradient-to-r from-[#4327a3] to-[#dd117f] rounded-xl px-5 py-2">
-              VOTE NOW
-            </button>
           </div>
           <div className="w-[100%] flex flex-row justify-center items-center border-[1px] border-[#4327a3] rounded-xl py-2">
             STAND-UP COMEDY

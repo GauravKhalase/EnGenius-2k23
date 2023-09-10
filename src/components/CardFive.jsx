@@ -7,16 +7,18 @@ const CardFive = () => {
       <div className="w-[30%] ">
         <img className="rounded-lg" src={Singing} alt="" />
       </div>
-      <div className="w-[70%] px-5 py-2 flex flex-col justify-between items-start">
+      <div className="w-[70%] px-5 py-2 flex flex-col justify-between items-end">
         <div>
-        <div className="text-[15px] font-semibold uppercase">Singing Competition</div>
-        <div className="text-[10px]">
+        <div className="text-[15px] font-semibold uppercase text-right">Singing Competition</div>
+        <div className="text-[10px] text-right">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe, debitis. Lorem ipsum dolor sit amet.
         </div>
         </div>
-        <button className="text-[12px] font-semibold text-white bg-gradient-to-r from-[#4327a3] to-[#dd117f] rounded-xl px-4 py-2 mb-[2px]">
+        <a href="https://forms.gle/84GVT4McnuPnJjX89">
+        <button className="text-[12px] font-semibold text-white bg-gradient-to-r from-[#4327a3] to-[#dd117f] rounded-lg px-4 py-2 mb-[2px]">
           Participate Now
         </button>
+        </a>
       </div>
     </div>
   );
