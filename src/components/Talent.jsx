@@ -14,7 +14,7 @@ const Talent = () => {
         <div className="text-[15px] font-semibold ">WANT TO<span className="text-[25px] font-extrabold"> SHOWCASE </span>YOUR</div>
         <div className="text-[25px] font-extrabold pb-5">TALENT?</div>
         <div className='flex flex-col justify-center items-center gap-5 text-center mb-6'>
-          <div className="text-[12px] leading-4 tracking-wider">Participate in the following competitions and get a chance to win <span className='font-extrabold'>Prize Money</span> and participation Certificate.</div>
+          <div className="text-[12px] leading-4 tracking-wider">Participate in the following competitions and get a chance to win <span className='font-extrabold'>Prize Money</span> and National Level Participation Certificate.</div>
           <div className="text-[10px] leading-4 tracking-wider"><span className='font-extrabold'>Note :</span>
            Click the “PARTICIPATE NOW” button to know all the details about the competitions.
           </div>

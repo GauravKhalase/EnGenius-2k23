@@ -51,7 +51,7 @@ const Home = () => {
           </button>
           <div className="flex flex-col justify-center items-center text-[15px] font-bold tracking-wider mb-4">
             <div>LOCATION : 'S' BUILDING SEMINAR HALL</div>
-            <div>TIME : 10.00 AM TO 17.00 PM</div>
+            <div>TIME : 10.00 AM TO 05.00 PM</div>
             <div>DATE : 15 SEPTEMBER, 2023</div>
           </div>
           <div className="rotate-90 text-[40px] font-thin">
