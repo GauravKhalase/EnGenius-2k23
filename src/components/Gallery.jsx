@@ -6,7 +6,7 @@ import four from "../assets/four.jpg";
 
 const Gallery = () => {
   return (
-    <div>
+    <div id="gallery">
       <div className="max-w-[80%] flex flex-col justify-center items-center mx-auto py-10">
         <div className="text-[25px] font-extrabold pb-5">
           2K22 - <span className="text-[15px] font-semibold ">EVENT</span> GALLERY

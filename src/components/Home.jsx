@@ -8,23 +8,23 @@ const Home = () => {
       <nav className="max-w-[80%] text-white sm:text-[10px] md:text-md mx-auto py-6">
         <div className="flex flex-row justify-around items-center">
           <div className="flex flex-col justify center items-center gap-[2px]">
-            <div>SHEDULE</div>
+            <a href="#events">SHEDULE</a>
             <div className="h-[1px] w-[70%] bg-[#68219a]"></div>
           </div>
           <div className="flex flex-col justify center items-center gap-[2px]">
-            <div>HEIGHLIGHTS</div>
+            <a href="#highlights">HEIGHLIGHTS</a>
             <div className="h-[1px] w-[70%] bg-[#68219a]"></div>
           </div>
           <div className="flex flex-col justify center items-center gap-[2px]">
-            <div>GALLERY</div>
+            <a href="#gallery">GALLERY</a>
             <div className="h-[1px] w-[70%] bg-[#68219a]"></div>
           </div>
           <div className="flex flex-col justify center items-center gap-[2px]">
-            <div>BUY PASS</div>
+            <a href="#pass">BUY PASS</a>
             <div className="h-[1px] w-[70%] bg-[#68219a]"></div>
           </div>
           <div className="flex flex-col justify center items-center gap-[2px]">
-            <div>PARTICIPATE</div>
+            <a href="#talent">PARTICIPATE</a>
             <div className="h-[1px] w-[70%] bg-[#68219a]"></div>
           </div>
         </div>

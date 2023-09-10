@@ -2,7 +2,7 @@ import React from "react";
 
 const Highlights = () => {
   return (
-    <div className="bg-[#211e1e] text-white">
+    <div className="bg-[#211e1e] text-white" id="highlights">
       <div className="max-w-[80%] flex flex-col justify-center items-center mx-auto pt-5 pb-16">
         <div className="text-[25px] font-extrabold px-2 py-8 ">
           HIGHLIGHTS{" "}

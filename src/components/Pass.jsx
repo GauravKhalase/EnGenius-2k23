@@ -2,7 +2,7 @@ import React from "react";
 
 const Pass = () => {
   return (
-    <div className="bg-[#f8f8f8]">
+    <div className="bg-[#f8f8f8]" id="pass">
       <div className="max-w-[80%] flex flex-col justify-center items-center mx-auto py-12">
         <div className="text-[25px] font-extrabold ">
           <span className="text-[15px] font-semibold ">BE</span> A PART <span className="text-[15px] font-semibold ">OF THIS</span>

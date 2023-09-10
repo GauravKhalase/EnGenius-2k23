@@ -2,7 +2,7 @@ import React from 'react'
 
 const Talent = () => {
   return (
-    <div className='bg-[#f8f8f8]'>
+    <div className='bg-[#f8f8f8]' id='talent'>
       <div className="max-w-[80%] flex flex-col justify-center items-center mx-auto py-10">
         <div className="text-[15px] font-semibold ">WANT TO<span className="text-[25px] font-extrabold"> SHOWCASE </span>YOUR</div>
         <div className="text-[25px] font-extrabold pb-5">TALENT?</div>

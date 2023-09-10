@@ -2,7 +2,7 @@ import React from "react";
 
 const Events = () => {
   return (
-    <div>
+    <div id="events">
       <div className="max-w-[80%] flex flex-col mx-auto py-10">
         <div className="text-[25px] font-extrabold px-2 py-8 ">
           EVENTS <span className="text-[15px] font-semibold ">ORGANISED</span>
