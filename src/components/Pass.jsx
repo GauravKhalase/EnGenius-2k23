@@ -15,6 +15,14 @@ const Pass = () => {
           from the respective coordinator. Don't miss out on the fun,
           innovation, and celebration of Engineers' Day.
         </div>
+        <div className="text-center pb-5">
+          <div className="font-semibold">The Pass includes some benefits mentioned...</div>
+          <div className="text-[15px]">
+            1. Enjoy the event show with comfort and reserved seat for oneself.
+          </div>
+          <div className="text-[15px]">2. Snacks will be provided during the break.</div>
+        </div >
+        <div className="text-center pb-5">This PASS costs you only <span className="font-semibold">30/-</span> per head for entire Event</div>
         <a href="https://forms.gle/URUVzPDwQbzWPYQcA">
           <button className="text-white text-[12px] font-semibold tracking-wide bg-gradient-to-r from-[#4327a3] to-[#dd117f] rounded-xl px-6 py-3">
             GET THE PASS NOW
