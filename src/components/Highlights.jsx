@@ -9,7 +9,7 @@ const Highlights = () => {
           <span className="text-[15px] font-semibold ">OF EVENT</span>
         </div>
         <div className="flex flex-col gap-4">
-          <div className="flex flex-col justify-center items-center border-[1px] border-[#dd117f] rounded-2xl px-6 py-4 gap-3">
+          <div className="flex flex-col justify-center items-center border-[1px] border-[#dd117f] rounded-2xl px-6 py-4 gap-3 hover:bg-[#ab198b]">
             <div>LIVE AUDIENCE VOTING</div>
             <div className="text-center text-[10px]">
               We've incorporated live audience voting to let you decide the best
@@ -17,19 +17,19 @@ const Highlights = () => {
               want you to be a part of this thrilling experience.
             </div>
           </div>
-          <div className="w-[100%] flex flex-row justify-center items-center border-[1px] border-[#4327a3] rounded-xl py-2">
+          <div className="w-[100%] flex flex-row justify-center items-center border-[1px] border-[#4327a3] rounded-xl py-2 hover:bg-[#4327a3]">
             EXPERT'S TALK
           </div>
-          <div className="w-[100%] flex flex-row justify-center items-center border-[1px] border-[#dd117f] rounded-xl py-2">
+          <div className="w-[100%] flex flex-row justify-center items-center border-[1px] border-[#dd117f] rounded-xl py-2 hover:bg-[#ab198b]">
             STAND-UP COMEDY
           </div>
-          <div className="w-[100%] flex flex-row justify-center items-center border-[1px] border-[#4327a3] rounded-xl py-2">
+          <div className="w-[100%] flex flex-row justify-center items-center border-[1px] border-[#4327a3] rounded-xl py-2 hover:bg-[#4327a3]">
             MUSIC PERFORMANCES
           </div>
-          <div className="w-[100%] flex flex-row justify-center items-center border-[1px] border-[#dd117f] rounded-xl py-2">
+          <div className="w-[100%] flex flex-row justify-center items-center border-[1px] border-[#dd117f] rounded-xl py-2 hover:bg-[#ab198b]">
             DANCE PERFORMANCES
           </div>
-          <div className="w-[100%] flex flex-row justify-center items-center border-[1px] border-[#4327a3] rounded-xl py-2">
+          <div className="w-[100%] flex flex-row justify-center items-center border-[1px] border-[#4327a3] rounded-xl py-2 hover:bg-[#4327a3]">
             DIGITAL TREASURE HUNT
           </div>
         </div>

@@ -9,7 +9,7 @@ const CardThree = () => {
       </div>
       <div className="sm:w-[70%] md:w-[250px] px-5 py-2 flex flex-col justify-between items-end">
         <div>
-        <div className="text-[15px] font-semibold uppercase text-right">Photography Competition</div>
+        <div className="text-[15px] font-semibold uppercase text-right">Photography Contest</div>
         <div className="text-[10px] text-right">
         Capture captivating moments through your photography.
         </div>

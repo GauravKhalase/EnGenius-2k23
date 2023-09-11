@@ -9,7 +9,7 @@ const Cardtwo = () => {
       
       <div className="sm:w-[70%] md:w-[250px] px-5 py-2 flex flex-col justify-between items-start text-white">
         <div>
-        <div className="text-[15px] font-semibold uppercase">Project Competition</div>
+        <div className="text-[15px] font-semibold uppercase">Project Completion Challange</div>
         <div className="text-[10px]">
         Race against the clock to finish a creative project..
         </div>

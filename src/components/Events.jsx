@@ -25,7 +25,7 @@ const Events = () => {
               <td className="w-[110px] py-2 flex flex-col items-start">01:00 - 03:00</td>
               <td className="pl-2 py-2">
                 Dancing Competition + Singing Competition + Photography
-                Competition + Digital Treasure Hunt.
+                Contest + Digital Treasure Hunt.
               </td>
             </tr>
             <tr>

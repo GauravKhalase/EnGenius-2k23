@@ -46,7 +46,7 @@ const Home = () => {
             Come join us to make this Engineers' Day a memorable one together.
             See you there!
           </div>
-          <button className="text-[12px] font-bold bg-gradient-to-r from-[#4327a3] to-[#dd117f] rounded-2xl px-8 py-3 mb-16">
+          <button className="text-[12px] font-bold bg-gradient-to-r from-[#4327a3] to-[#dd117f] rounded-xl px-8 py-3 mb-16 ">
             <a href="#events">KNOW MORE</a>
           </button>
           <div className="flex flex-col justify-center items-center text-[15px] font-bold tracking-wider mb-4">
