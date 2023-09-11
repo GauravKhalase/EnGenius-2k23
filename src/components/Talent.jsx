@@ -34,8 +34,9 @@ const Talent = () => {
             <CardThree />
           </div>
           <div className="flex sm:flex-col lg:flex-row justify-center items-center gap-5">
-            <CardSix />
+            <CardFour/>
             <CardFive />
+            <CardSix />
           </div>
         </div>
       </div>

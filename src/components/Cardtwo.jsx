@@ -11,7 +11,7 @@ const Cardtwo = () => {
         <div>
         <div className="text-[15px] font-semibold uppercase">Project Competition</div>
         <div className="text-[10px]">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe, debitis. Lorem ipsum dolor sit amet.
+        Race against the clock to finish a creative project..
         </div>
         </div>
         <a href="https://forms.gle/M64bDYok1Hh9qvQL6">

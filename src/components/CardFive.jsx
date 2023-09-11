@@ -11,7 +11,8 @@ const CardFive = () => {
         <div>
         <div className="text-[15px] font-semibold uppercase text-right">Singing Competition</div>
         <div className="text-[10px] text-right">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe, debitis. Lorem ipsum dolor sit amet.
+        Serenade the audience with your vocal talent.
+
         </div>
         </div>
         <a href="https://forms.gle/84GVT4McnuPnJjX89">
