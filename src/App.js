@@ -7,6 +7,7 @@ import Gallery from './components/Gallery';
 import Talent from './components/Talent';
 import Organizers from './components/Organizers';
 import Contact from './components/Contact';
+import { Analytics } from '@vercel/analytics/react';
 
 function App() {
   return (
@@ -22,6 +23,7 @@ function App() {
         <Organizers/>
         <Contact/>
       </div>
+      <Analytics />
     </div>
   );
 }

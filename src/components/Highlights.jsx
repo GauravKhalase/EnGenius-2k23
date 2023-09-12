@@ -32,6 +32,9 @@ const Highlights = () => {
           <div className="w-[100%] flex flex-row justify-center items-center border-[1px] border-[#4327a3] rounded-xl py-2 hover:bg-[#4327a3]">
             DIGITAL TREASURE HUNT
           </div>
+          <div className="w-[100%] flex flex-row justify-center items-center border-[1px] border-[#dd117f] rounded-xl py-2 hover:bg-[#ab198b]">
+            FUNNY SKIT/ACT
+          </div>
         </div>
       </div>
     </div>
