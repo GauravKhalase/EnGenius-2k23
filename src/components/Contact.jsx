@@ -18,13 +18,15 @@ const Contact = () => {
         </div>
         <div className="w-[100%] h-[1px] mx-auto bg-gray-200"></div>
         <div className=" flex flex-col justify-center items-center text-white gap-2">
-          <div className="text-[20px]  font-semibold tracking-wider uppercase ">
-            Credits <span className="text-[12px]">to</span>
-          </div>
-          <div className="flex flex-row justify-center items-center gap-2">
-            <div className="tracking-wide ">Diksha Mahajan</div>
-            <div>&</div>
-            <div className="tracking-wide">Gaurav Khalase</div>
+          <div className="flex flex-col justify-center items-center gap-2">
+            <div className="text-[15px] tracking-wide">
+              Design By :{" "}
+              <span className="font-semibold uppercase">Diksha Mahajan</span>
+            </div>
+            <div className="text-[15px] tracking-wider ">
+              Develop By :{" "}
+              <span className="font-semibold uppercase">Gaurav Khalase</span>
+            </div>
           </div>
         </div>
       </div>
