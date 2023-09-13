@@ -15,7 +15,7 @@ const CardFour = () => {
               Showcase your prompt engineering skills.
             </div>
           </div>
-          <a href="">
+          <a href="https://forms.gle/kgkwCCwWmzKvPGiYA">
             <button className="text-[12px] font-semibold text-white bg-gradient-to-r from-[#4327a3] to-[#dd117f] rounded-lg px-4 py-2 mb-[2px]">
               Participate Now
             </button>
