@@ -7,8 +7,8 @@ const Contact = () => {
         <div className="flex flex-row justify-center item-center text-white tex gap-10">
           <div className="flex flex-col justify-center items-center text-[12px]">
             <div className="font-bold">MAIL</div>
-            <a>mahajan.hitesh3404gmail.com</a>
-            <a>ashishviveksingh@gmail.com</a>
+            <div>mahajan.hitesh3404gmail.com</div>
+            <div>ashishviveksingh@gmail.com</div>
           </div>
           <div className="flex flex-col justify-center items-center text-[12px]">
             <div className="font-bold">CONTACT NO.</div>

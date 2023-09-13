@@ -1,4 +1,4 @@
-import React, { useState, useRef, useEffect } from "react";
+import React from "react";
 import Countdown from "react-countdown-now";
 
 const Completionist = () => <span>You are good to go!</span>;
