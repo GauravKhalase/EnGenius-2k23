@@ -41,7 +41,7 @@ const renderer = ({ total, days, hours, minutes, seconds }) => {
 const Timer = () => {
   return (
     <div className="App">
-      <Countdown date="2023-09-15T00:00:00" renderer={renderer}>
+      <Countdown date="2023-09-15T10:00:00" renderer={renderer}>
         <Completionist />
       </Countdown>
     </div>
