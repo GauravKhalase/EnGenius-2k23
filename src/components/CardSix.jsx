@@ -15,7 +15,7 @@ const CardSix = () => {
             </div>
           </div>
           <a href="">
-          <button className="text-[12px] font-semibold text-gray-900 bg-gray-400 rounded-lg px-4 py-2 mb-[2px]">
+          <button className="text-[12px] cursor-default font-semibold text-gray-900 bg-gray-400 rounded-lg px-4 py-2 mb-[2px]">
           Entries Full*
         </button>
           </a>
