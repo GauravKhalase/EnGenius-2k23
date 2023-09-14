@@ -15,9 +15,9 @@ const Cardone = () => {
         Embark on an exciting adventure to discover hidden treasures.
         </div>
         </div>
-        <a href="https://forms.gle/rxB6Y7Epc4dnUPWo9">
-        <button className="text-[12px] font-semibold text-white bg-gradient-to-r from-[#4327a3] to-[#dd117f] rounded-lg px-4 py-2 mb-[2px]">
-          Participate Now
+        <a href="">
+        <button className="text-[12px] font-semibold text-gray-900 bg-gray-400 rounded-lg px-4 py-2 mb-[2px]">
+          Entries Full*
         </button>
         </a>
       </div>

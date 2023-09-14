@@ -14,10 +14,10 @@ const CardSix = () => {
               Show off your dance skills and groove to the beat.
             </div>
           </div>
-          <a href="https://forms.gle/KK5DRotPVpmEeyYG9">
-            <button className="text-[12px] font-semibold text-white bg-gradient-to-r from-[#4327a3] to-[#dd117f] rounded-lg px-4 py-2 mb-[2px]">
-              Participate Now
-            </button>
+          <a href="">
+          <button className="text-[12px] font-semibold text-gray-900 bg-gray-400 rounded-lg px-4 py-2 mb-[2px]">
+          Entries Full*
+        </button>
           </a>
         </div>
         <div className="sm:w-[30%] md:w-[100px]">
