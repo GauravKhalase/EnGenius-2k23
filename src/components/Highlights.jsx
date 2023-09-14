@@ -3,24 +3,14 @@ import React from "react";
 const Highlights = () => {
   return (
     <div className="bg-[#211e1e] text-white" id="highlights">
-      <div className="max-w-[80%] flex flex-col justify-center items-center mx-auto pt-5 pb-16">
+      <div className="w-[80%] flex flex-col justify-center items-center mx-auto pt-5 pb-16">
         <div className="text-[25px] font-extrabold px-2 py-8 ">
           HIGHLIGHTS{" "}
           <span className="text-[15px] font-semibold ">OF EVENT</span>
         </div>
-        <div className="flex flex-col gap-4">
-          <div className="flex flex-col justify-center items-center border-[1px] border-[#dd117f] rounded-2xl px-6 py-4 gap-3 ">
-            <div>LIVE AUDIENCE VOTING</div>
-            <div className="text-center text-[10px]">
-              We've incorporated live audience voting to let you decide the best
-              performances in all our competitions. Your voice matters, and we
-              want you to be a part of this thrilling experience.
-            </div>
-            {/* <a href="">
-              <button className="text-white text-[12px] font-semibold tracking-wide bg-gradient-to-r from-[#4327a3] to-[#dd117f] rounded-xl px-6 py-3">
-                VOTE NOW
-              </button>
-            </a> */}
+        <div className=" w-[100%] flex flex-col gap-4">
+        <div className="w-[100%] flex flex-row justify-center items-center border-[1px] border-[#dd117f] rounded-xl py-2 hover:bg-[#ab198b] uppercase">
+        Live Audience Voting
           </div>
           <div className="w-[100%] flex flex-row justify-center items-center border-[1px] border-[#4327a3] rounded-xl py-2 hover:bg-[#4327a3]">
             EXPERT'S TALK

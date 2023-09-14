@@ -47,7 +47,7 @@ const Pass = () => {
             Attention Please
           </div>
           <div className="text-[18px] font-semibold pb-5">
-            Please don't pay any amount without google form otherwise amount
+          Please do not make any payments without Google form, otherwise paid amount
             will not be refundable.
           </div>
         </div>

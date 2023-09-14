@@ -1,7 +1,10 @@
 import React from "react";
 import Countdown from "react-countdown-now";
 
-const Completionist = () => <span>You are good to go!</span>;
+const Completionist = () => <div
+className=" flex flex-row bg-gradient-to-r from-[#4327a3] to-[#dd117f] rounded-xl px-12 py-4 gap-2 text-[23px] font-bold "
+style={{ color: "white" }}
+>You are good to go!</div>;
 
 const renderer = ({ total, days, hours, minutes, seconds }) => {
   if (total) {
