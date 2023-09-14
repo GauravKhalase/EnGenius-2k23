@@ -23,12 +23,13 @@ const Pass = () => {
           <div className="text-[15px]">2. Snacks will be provided during the break.</div>
         </div >
         <div className="text-center  pb-5">This PASS costs you only <span className="font-semibold">30/-</span> per head for entire Event</div>
-        <div className="bg-gradient-to-br from-[#4327a3] to-[#dd117f] bg-clip-text text text-transparent font-bold text-xl uppercase pb-5">Hurry Up!</div>
-        <div className="text-center font-semibold pb-5">Seats Are Filling Up Fast…Reserve YOURS Now!</div>
+        <div className="text-red-500 font-bold text-xl uppercase pb-5">Sorry! <span className="text-[15px] font-semibold text-black">you are late.</span></div>
+        <div className="text-center font-semibold pb-5">All seats are fully booked for EnGenius-2023.</div>
         
         <a className="pb-5" href="">
-          <button className="text-white text-[12px] font-semibold tracking-wide bg-gradient-to-r from-[#4327a3] to-[#dd117f] rounded-xl px-6 py-3">
-            GET THE PASS NOW
+          {/* bg-gradient-to-r from-[#4327a3] to-[#dd117f] */}
+          <button className=" text-[12px] cursor-default font-semibold text-black bg-gray-400 tracking-wide  rounded-xl px-6 py-3">
+            GET THE PASS NOW*
           </button>
         </a>
         <div className="text-center"><span className="font-bold">NOTE : </span>Keep your entry pass with you for venue entry.</div>
