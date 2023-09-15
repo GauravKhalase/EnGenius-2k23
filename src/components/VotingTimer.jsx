@@ -23,7 +23,7 @@ const renderer = ({ total, hours,  minutes, seconds }) => {
         </div>
         <span className="text-[20px] font-semibold "> seconds</span>
       </div>
-      <div className=" text-center"><span className="text-[20px] font-semibold"> seconds</span></div>
+      <div className=" text-center"><span className="text-[20px] font-semibold"> left</span></div>
       </div>
     );
   } else {
