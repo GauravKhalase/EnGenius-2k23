@@ -34,7 +34,7 @@ const renderer = ({ total, hours,  minutes, seconds }) => {
 const VotingTimer = () => {
   return (
     <div className="App">
-      <Countdown date="2023-09-15T15:00:00" renderer={renderer}>
+      <Countdown date="2023-09-15T16:00:00" renderer={renderer}>
         <Completionist />
       </Countdown>
     </div>
