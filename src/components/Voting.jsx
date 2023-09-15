@@ -32,7 +32,7 @@ const Voting = () => {
         </button>
       </a>
       <a href="https://forms.gle/1kFD51fDseXDHUwN8">
-        <button className="text-[16px] text-white font-bold bg-gradient-to-r from-[#4327a3] to-[#dd117f] rounded-xl px-8 py-3 tracking-wide">
+        <button className="text-[16px] text-white font-bold bg-gradient-to-r from-[#4327a3] to-[#dd117f] rounded-xl px-4 py-3 tracking-wide">
           VOTE FOR BEST PHOTOGRAPHER
         </button>
       </a>
