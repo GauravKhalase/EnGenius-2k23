@@ -20,17 +20,17 @@ const Voting = () => {
       <div className="text-center text-[18px] font-bold uppercase text-black bg-clip-text tracking tracking-wide">
         Let's vote for your favourite contestent
       </div>
-      <div className="flex flex-col justify-center items-center gap-4">
-      {/* <a href="https://forms.gle/3KqxCj1JJdf4HkK3A">
+      <div className="flex flex-col justify-center items-center gap-5">
+      <a href="https://forms.gle/3KqxCj1JJdf4HkK3A">
         <button className="text-[16px] text-white font-bold bg-gradient-to-r from-[#4327a3] to-[#dd117f] rounded-xl px-8 py-3 tracking-wide">
           VOTE FOR BEST DANCER
         </button>
-      </a> */}
-      {/* <a href="https://forms.gle/YjUJfMPQjeg3dyvz6">
+      </a>
+      <a href="https://forms.gle/YjUJfMPQjeg3dyvz6">
         <button className="text-[16px] text-white font-bold bg-gradient-to-r from-[#4327a3] to-[#dd117f] rounded-xl px-8 py-3 tracking-wide">
           VOTE FOR BEST SINGER
         </button>
-      </a> */}
+      </a>
       <a href="https://forms.gle/1kFD51fDseXDHUwN8">
         <button className="text-[16px] text-white font-bold bg-gradient-to-r from-[#4327a3] to-[#dd117f] rounded-xl px-8 py-3 tracking-wide">
           VOTE FOR BEST PHOTOGRAPHER
