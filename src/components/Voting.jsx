@@ -4,7 +4,7 @@ import click from "../assets/click.jpg";
 
 const Voting = () => {
   return (
-    <div className="max-w-[80%] flex flex-col justify-center items-center mx-auto pt-20 pb-12 gap-5">
+    <div className="max-w-[80%] flex flex-col justify-center items-center mx-auto pt-20 pb-12 gap-5 border-b-2 border-black">
       <div className="text-[25px] font-extrabold uppercase">
         <span className="text-[15px] text-semibold uppercase">Live</span>{" "}
         Audience Voting
@@ -21,21 +21,21 @@ const Voting = () => {
         Let's vote for your favourite contestent
       </div>
       <div className="flex flex-col justify-center items-center gap-4">
-      <a href="">
+      {/* <a href="https://forms.gle/3KqxCj1JJdf4HkK3A">
         <button className="text-[16px] text-white font-bold bg-gradient-to-r from-[#4327a3] to-[#dd117f] rounded-xl px-8 py-3 tracking-wide">
           VOTE FOR BEST DANCER
         </button>
-      </a>
-      {/* <a href="">
+      </a> */}
+      {/* <a href="https://forms.gle/YjUJfMPQjeg3dyvz6">
         <button className="text-[16px] text-white font-bold bg-gradient-to-r from-[#4327a3] to-[#dd117f] rounded-xl px-8 py-3 tracking-wide">
           VOTE FOR BEST SINGER
         </button>
-      </a>
-      <a href="">
+      </a> */}
+      <a href="https://forms.gle/1kFD51fDseXDHUwN8">
         <button className="text-[16px] text-white font-bold bg-gradient-to-r from-[#4327a3] to-[#dd117f] rounded-xl px-8 py-3 tracking-wide">
           VOTE FOR BEST PHOTOGRAPHER
         </button>
-      </a> */}
+      </a>
     <div><img className="h-[150px]" src={click} alt="" /></div>
     </div>
       <div className="pb-4">

@@ -16,7 +16,7 @@ function App() {
       {/* <div className="h-screen w-screen sm:invisible md:visible flex flex-row justify-center items-center absolute">Open Using Mobile Phone</div> */}
       <div>
         <Home/>
-        {/* <Voting/> */}
+        <Voting/>
         <Events/>
         <Highlights/>
         <Pass/>
